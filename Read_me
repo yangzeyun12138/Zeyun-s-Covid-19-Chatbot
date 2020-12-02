@@ -6,7 +6,7 @@ Description of the Program
      To use this chatbot, install the Telegram on your device and go to this link "t.me/Zeyun_Chat_bot", and you can find the chatbot named "my_chatbot".
      Run this code, and type "/start" in the chat window. When you see a prompt "Hello, What do you want to know about Covid-19?", you can ask your question.
      You can ask questions about a specific case type in a specific country and around the glove. You can also ask for the cases outside a specific country.
-     The chatbot will answer the covid-19 related questions to you. 
+     The chatbot will only answer the covid-19 related questions to you. If the chatbot do not respond, please rephrase your question.
 
 Description of the code
      
